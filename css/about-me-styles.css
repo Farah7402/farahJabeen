@@ -11,7 +11,8 @@ body {
   width: 100%;
   margin: 0;
   padding: 1em 0 0.5em;
-  color: #ff789e;
+  color: #8D94BA
+  ;
   font-size: 2.5em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -27,7 +28,7 @@ body {
   width: 10px;
   height: 10px;
   margin-left: 5px;
-  background-color: #ff789e;
+  background-color: #8D94BA;
 }
 .about-me__title__dot--white {
   background-color: #fff;
